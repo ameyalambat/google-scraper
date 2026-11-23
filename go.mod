@@ -1,4 +1,4 @@
-module github.com/ameyalambat128/google-scraper
+module github.com/ameyalambat/google-scraper
 
 go 1.18
 
